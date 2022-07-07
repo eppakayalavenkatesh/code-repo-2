@@ -7,3 +7,5 @@
 ## created new feature branch
 
 3. only there in the furetue branch
+
+4. git branch -d feature_branch_name // deleting feature branch
